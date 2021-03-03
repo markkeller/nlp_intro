@@ -1,0 +1,7 @@
+name: mimic2
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - seaborn
+  - getpass
