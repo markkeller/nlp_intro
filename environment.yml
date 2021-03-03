@@ -2,5 +2,6 @@ name: mimic2
 channels:
   - conda-forge
 dependencies:
+  - pymysql
   - pandas
   - seaborn
